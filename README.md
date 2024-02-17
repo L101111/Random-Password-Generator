@@ -6,9 +6,9 @@
 
 # Usage
 
-Run the code:
+<li>Run the code:</li>
 
     python password_generator.py
     
-<p>Enter your desired length.<br>
-Your generated password will be displayed.</p>
+<li><p>Enter your desired length.<br></li>
+<li>Your generated password will be displayed.</p></li>
