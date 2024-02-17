@@ -19,7 +19,7 @@
 <li>Strong Passwords</li>
 <li>User-Friendly Interface</li>
 <li>Colorful Output</li>
-<li>Error Handling</li>
+<li>Error Handling</li><br>
 
 **⚠️ IMPORTANT ⚠️**
 
