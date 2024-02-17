@@ -8,7 +8,7 @@
 
 <li>Run the code:</li>
 
-    python password_generator.py
+    python passgen.py
     
 <li>Enter your desired length.</li>
 <li>Your generated password will be displayed.</li>
