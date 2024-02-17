@@ -10,5 +10,5 @@
 
     python password_generator.py
     
-<li><p>Enter your desired length.<br></li>
-<li>Your generated password will be displayed.</p></li>
+<li>Enter your desired length.</li>
+<li>Your generated password will be displayed.</li>
