@@ -23,3 +23,5 @@
 
 # License
 This project is licensed under the MIT License - see the <a href="https://github.com/L101111/Random-Password-Generator/blob/main/LICENSE">LICENSE</a> file for details.
+
+# Enjoy
