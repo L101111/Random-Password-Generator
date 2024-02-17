@@ -12,3 +12,11 @@
     
 <li>Enter your desired length.</li>
 <li>Your generated password will be displayed.</li>
+
+# Features
+
+<li>Custom Password Length</li>
+<li>Strong Passwords</li>
+<li>User-Friendly Interface</li>
+<li>Colorful Output</li>
+<li>Error Handling</li>
